@@ -1,0 +1,30 @@
+{
+  "name": "ll-basics",
+  "version": "1.0.0",
+  "description": "just the basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "basic": "basic.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learninglab-studio/ll-basics.git"
+  },
+  "author": "Elle L. Studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learninglab-studio/ll-basics/issues"
+  },
+  "homepage": "https://github.com/learninglab-studio/ll-basics#readme",
+  "dependencies": {
+    "airtable": "^0.11.1",
+    "clear": "^0.1.0",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "figlet": "^1.5.2",
+    "yargs": "^17.3.1"
+  }
+}
